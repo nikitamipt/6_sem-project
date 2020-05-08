@@ -8,8 +8,8 @@
 
 Примеры результатов работы модели:
 
-<img src="graph1.png" width="700"/>
-<img src="graph2.png" width="700"/> 
+<img src="Эренфест.png" width="300"/>
+<img src="Эренфест и Фик.png" width="300"/> 
 
 
 - Теоретические выкладки в **.pdf** файле
